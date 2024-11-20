@@ -1,0 +1,12 @@
+{
+    "name": "prova",
+    "version": "1.0.0",
+    "description": "Prova da 1º etapa",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Neto Alves",
+    "license": "ISC"
+  }
